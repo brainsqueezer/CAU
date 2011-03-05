@@ -1,17 +1,17 @@
-Personajes
-en informatica todo el mundo sabe de todo. aunq ciertas habilidades puede fallar
+#!/bin/bash
+#Habilidades extra Personajes
+#en informatica todo el mundo sabe de todo. aunq ciertas habilidades puede fallar
 
-- Tecnico en reparacion y montaje de equipos
-Habilidades:
-- Enchufar cables
-- Crear Scripts
-- Usar cualquier programa aleatorio
-- Soportar usuarios
-- Detectar mentiras del usuario
-- Soportar la falta de sueño
 
-- Programador 
-Habilidades:
+#Tecnico hardware
 
-- Ingeniero informatico
+h_extra_cables=2
+h_extra_mentiras=2
+
+#Programador 
+
+h_extra_scripts=2
+h_extra_sueno=2
+
+# Ingeniero informatico
 

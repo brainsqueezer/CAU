@@ -66,24 +66,24 @@ read personaje
 echo "Generando tus habilidades..."
 valor_habilidad
 h_cables=$?
-echo "Enchufar cables -> $h_cables/18"
 valor_habilidad
 h_scripts=$?
-echo "Crear Scripts -> $h_scripts/18"
 valor_habilidad
 h_usar=$?
-echo "Usar cualquier programa aleatorio -> $h_usar/18"
 valor_habilidad
 h_soportar=$?
-echo "Soportar usuarios -> $h_soportar/18"
 valor_habilidad
 h_mentiras=$?
-echo "Detectar mentiras del usuario -> $h_mentiras/18"
 valor_habilidad
 h_sueno=$?
-echo "Soportar la falta de sueño -> $h_sueno/18"
 valor_habilidad
 h_hardware=$?
+echo "Enchufar cables -> $h_cables/18"
+echo "Crear Scripts -> $h_scripts/18"
+echo "Usar cualquier programa aleatorio -> $h_usar/18"
+echo "Soportar usuarios -> $h_soportar/18"
+echo "Detectar mentiras del usuario -> $h_mentiras/18"
+echo "Soportar la falta de sueño -> $h_sueno/18"
 echo "Encontrar errores hardware -> $h_hardware/18"
 echo
 echo "Estás preparado?"
