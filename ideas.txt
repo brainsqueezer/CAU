@@ -1,0 +1,38 @@
+Llegas al trabajo y te dan a elegir varias misiones. En las misiones hay imprevistos. Llegas alli y es totalmente distinto o aparecen cosas extra.
+
+Tienes 8 horas de tiempo y 100 euros. Aunque puedes ganar 1 hora si evitas ir a comer y otra hora si te vas con la señora de la limpieza.
+
+
+
+
+
+Variables
+tiempo
+dinero (presupuesto del frpartamento d einformatica)
+
+
+Bandos
+llala
+
+
+Acciones
+¿Has probado a apagarlo y volverlo a encender? (siempre disponible)
+Si funciona, no lo toques
+
+
+
+Misiones
+
+
+
+
+Ideas
+Que el usuario diga cosas absurdas.
+El dice que el ordenador no enciende y en realidad significa que no le va la web o le ha cmabiado el fondo de pantalla
+
+
+
+
+
+Areas por las que vas vagando y te encuentras mazmorras y por alli te encuentras mazmorras
+
