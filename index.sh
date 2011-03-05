@@ -62,7 +62,7 @@ echo "2. Programador de aplicaciones"
 echo ""
 read personaje
 
-
+echo "Eres informatico nivel 1"
 echo "Generando tus habilidades..."
 valor_habilidad
 h_cables=$?
