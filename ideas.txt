@@ -24,7 +24,7 @@ Si funciona, no lo toques
 Misiones
 
 
-
+Inventario
 
 Ideas
 Que el usuario diga cosas absurdas.
