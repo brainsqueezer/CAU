@@ -1,0 +1,6 @@
+objetos[1]="Soldador"
+objetos[2]="Polimetro"
+objetos[3]="Tarjeta Grafica"
+objetos[4]="Procesador"
+objetos[5]="Crimpadora"
+objetos[6]="Cinta americana"
